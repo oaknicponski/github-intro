@@ -1,0 +1,62 @@
+head {
+  background-color: lightblue;
+}
+.welcome {
+  text-align: center;
+}
+.body {
+  background-image: url('C:\\Users\\Chase\\Desktop\\images_website\\wood.jpg') ;
+  background-size: 100% 100%;
+  margin: 0;
+  padding: 0;
+}
+html {
+
+
+}
+ul {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+ul li a {
+  display:block;
+  position: relative;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  font-size:20px;
+  text-align:center;
+  background: #ccc;
+}
+.title {
+  align-content:center;
+}
+
+.video {
+align-self: center
+width: 100%;
+
+}
+
+.video iframe{
+  margin:0 auto;
+  display:block;
+  width:560px;
+}
+
+
+.welcome {
+  align-items: center;
+  border: 2px solid DodgerBlue;
+  background-color: DodgerBlue;
+
+}
+
+body {
+Display:
+}
