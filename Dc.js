@@ -7,3 +7,6 @@ $(document).ready(function() {
         alert("hi there")
     })
 })
+
+
+var elcontent = document.getElementById('')

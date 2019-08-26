@@ -5,15 +5,12 @@ head {
   text-align: center;
 }
 .body {
-  background-image: url('C:\\Users\\Chase\\Desktop\\images_website\\wood.jpg') ;
+  background-image: url('wood.jpg') ;
   background-size: 100% 100%;
   margin: 0;
   padding: 0;
 }
-html {
 
-
-}
 ul {
   position: absolute;
   top: 50%;
@@ -59,4 +56,9 @@ width: 100%;
 
 body {
 Display:
+}
+
+#links {
+position: block;
+
 }
